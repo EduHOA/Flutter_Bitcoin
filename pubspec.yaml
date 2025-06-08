@@ -1,0 +1,12 @@
+name: atividade_flutter
+description: Um app Flutter que consome a API da CoinMarketCap
+
+environment:
+  sdk: '^3.7.2'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  http: ^0.13.6
+  intl: ^0.18.1
